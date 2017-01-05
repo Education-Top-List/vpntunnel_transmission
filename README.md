@@ -54,7 +54,7 @@ Find available OpenVPN configurations by looking in the openvpn folder of the Gi
 
 As you can see, the container also expects a data volume to be mounted.
 This is where Transmission will store your downloads, incomplete downloads and look for a watch directory for new .torrent files.
-By default a folder named transmission-home will also be created under /data, this is where Transmission stores its state.
+By default a folder named transmission-home will also be created under /data , this is where Transmission stores its state.
 
 
 ### Required environment options
