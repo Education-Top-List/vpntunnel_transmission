@@ -1,5 +1,5 @@
 # Transmission with WebUI and OpenVPN
-Docker container which runs Transmission torrent client with WebUI while connecting to OpenVPN.
+V2 Docker container which runs Transmission torrent client with WebUI while connecting to OpenVPN.
 It bundles certificates and configurations for the following VPN providers:
 
 | Provider Name                | Config Value |
